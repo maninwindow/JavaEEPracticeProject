@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="JQuery_Ajax_Request">
+    <wb-module deploy-name="Java_EE Login_App">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="JQuery_Ajax_Request"/>
-        <property name="java-output-path" value="/JQuery_Ajax_Request/build/classes"/>
+        <property name="context-root" value="Java_EE_Login_App"/>
+        <property name="java-output-path" value="/Java_EE Login_App/build/classes"/>
     </wb-module>
 </project-modules>
